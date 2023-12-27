@@ -1,7 +1,4 @@
-import pandas as pd
-
-from image2inchi.model import Image2InChI, test_public_dataset
-from image2inchi.utils import Scorer
+from image2inchi.model import Image2InChI
 
 model = Image2InChI(chk_pt='/weight/chk_pt.pth')
 

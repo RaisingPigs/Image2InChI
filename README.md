@@ -14,6 +14,8 @@ Install Image2InChI with pip
 pip install Image2InChI
 ```
 
+Download the MolScribe checkpoint from HuggingFace Hub: https://huggingface.co/RaisingPigs/Image2InChI/tree/main
+
 ### Example
 
 Predict based on a picture
