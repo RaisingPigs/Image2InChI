@@ -1,0 +1,13 @@
+include image2inchi/data/*.*
+include image2inchi/data/dataset/BMS1000/*.*
+include image2inchi/data/dataset/BMS1000/images/*.*
+include image2inchi/data/dataset/CLEF/*.*
+include image2inchi/data/dataset/CLEF/images/*.*
+include image2inchi/data/dataset/JPO/*.*
+include image2inchi/data/dataset/JPO/images/*.*
+include image2inchi/data/dataset/UOB/*.*
+include image2inchi/data/dataset/UOB/images/*.*
+include image2inchi/data/dataset/USPTO/*.*
+include image2inchi/data/dataset/USPTO/images/*.*
+
+include requirements.txt
