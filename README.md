@@ -14,7 +14,7 @@ Install Image2InChI with pip
 pip install Image2InChI
 ```
 
-Download the MolScribe checkpoint from HuggingFace Hub: https://huggingface.co/RaisingPigs/Image2InChI/tree/main
+Download the Image2InChI checkpoint (chk_pt.pth) from HuggingFace Hub: https://huggingface.co/RaisingPigs/Image2InChI/tree/main
 
 ### Example
 
