@@ -8,13 +8,17 @@ This is the repository for Image2InChI, an image-to-graph model that translates 
 
 ### Installation
 
-Install Image2InChI with pip
+Install Image2InChI with pip. 
+
+Note that Image2InChI supports Linux systems, but due to related dependencies and other
+reasons, it currently does not support Windows
 
 ```shell
 pip install Image2InChI
 ```
 
-Download the Image2InChI checkpoint (chk_pt.pth) from HuggingFace Hub: https://huggingface.co/RaisingPigs/Image2InChI/tree/main
+Download the Image2InChI checkpoint (chk_pt.pth) from HuggingFace
+Hub: https://huggingface.co/RaisingPigs/Image2InChI/tree/main
 
 ### Example
 
